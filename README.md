@@ -1,9 +1,5 @@
 # 👋 Hi there! I'm Abhiram
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abhiram3012&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram3012" />
-</p>
-
 ## 🚀 About Me
 
 - 🎓 I’m a **software developer** passionate about building impactful web and AI applications.
