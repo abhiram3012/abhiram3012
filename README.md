@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Abhiram
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <img src="https://komarev.com/ghpvc/?username=abhiram3012&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram3012" />
 </p>
 
 ## 🚀 About Me
@@ -20,8 +20,8 @@
 
 ## 📫 How to reach me
 
-- Email: yourname@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourname)
+- Email: abhiramkonda2004@gmail.com
+- LinkedIn: [LinkedIn]((https://www.linkedin.com/in/abhiram-konda-5b5aa5278/))
 - Portfolio: [Your portfolio link](https://your-portfolio.com)
 
 ## 💻 My Stats
@@ -36,4 +36,4 @@
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [abhiram3012](https://github.com/abhiram3012)
