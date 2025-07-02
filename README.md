@@ -3,10 +3,9 @@
 ## 🚀 About Me
 
 - 🎓 I’m a **software developer** passionate about building impactful web and AI applications.
-- 💻 I work mainly with **MERN stack, React, Node.js, and Tailwind CSS**.
+- 💻 I primarily work with the **MERN stack, React, Node.js, and Tailwind CSS**.
 - 🔬 I enjoy exploring **AI, machine learning, and real-time systems**.
-- ✍️ Currently working on [NicheNet](https://github.com/abhiram3012/NicheNet), a social platform for connecting people with similar interests.
-- 🌱 Always learning new technologies and improving my skills.
+- 🌱 Continuously learning new technologies and refining my skills.
 
 ## 🛠️ Skills
 
@@ -18,31 +17,28 @@
 
 ## 📫 How to reach me
 
-- Email: abhiramkonda2004@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abhiram-konda-5b5aa5278/)
-- Portfolio: [Your portfolio link](https://your-portfolio.com)
+- ✉️ Email: abhiramkonda2004@gmail.com
+- 💼 LinkedIn: [Abhiram Konda](https://www.linkedin.com/in/abhiram-konda-5b5aa5278/)
+- 🌐 Portfolio: [Portfolio](https://your-portfolio.com) <!-- Replace with your actual link -->
 
 ## 🚩 Featured Projects
 
-- 🎯 [NicheNet](https://github.com/abhiram3012/NicheNet)
-  - A social media platform connecting people based on shared interests like movies, anime, sports, and more.
-  - Users can post, share opinions, and interact in real-time.
-  - Built using the MERN stack with a strong focus on community-driven features.
+- 🎯 [NicheNet](https://github.com/abhiram3012/NicheNet) — [Live Demo 🚀](https://nichenet-frontend.onrender.com/)  
+  A social media platform that connects people based on shared interests like movies, anime, sports, and more.  
+  Users can create or join communities (Hubs), post content, and interact in real-time.  
+  **Tech**: MERN stack, Tailwind CSS, real-time features.
 
-- 🛡️ [IT Assets Management System](https://github.com/abhiram3012/Internship)
-  - A MERN-based system to manage and track IT infrastructure in organizations.
-  - Handles hardware, software, maintenance logs, procurement, and more.
-  - Provides role-based dashboards for admins, technicians, and end-users.
+- 🛡️ [IT Assets Management System](https://github.com/abhiram3012/Internship)  
+  A comprehensive MERN-based system to manage and track IT infrastructure in organizations.  
+  Includes hardware, software, maintenance logs, procurement, and more, with role-based dashboards.
 
-- 📰 [Real-Time Personalized News Recommendation System](https://github.com/abhiram3012/news-app)
-  - A real-time news platform that delivers personalized articles based on user behavior.
-  - Uses Kafka streaming and LLM-powered recommendations via Ollama Gemma 3B.
-  - Tracks user interactions and updates the feed dynamically without traditional ML models.
-    
-- 📦 [My Contacts Backend](https://github.com/abhiram3012/contacts)
-  - A simple and secure Node.js backend to manage contact data.
-  - Offers REST APIs for creating, updating, and deleting contacts.
-  - Designed to be lightweight and easily integrable with front-end apps.
+- 📰 [Real-Time Personalized News Recommendation System](https://github.com/abhiram3012/news-app)  
+  A news platform that delivers personalized articles in real-time based on user behavior.  
+  Uses Kafka streaming and LLM-powered recommendations (Ollama Gemma 3B) to dynamically update content.
+
+- 📦 [My Contacts Backend](https://github.com/abhiram3012/contacts)  
+  A lightweight Node.js backend for managing contact data.  
+  Offers REST APIs for creating, updating, and deleting contacts — easy to integrate with any frontend.
 
 ---
 
